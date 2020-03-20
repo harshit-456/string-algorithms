@@ -90,32 +90,6 @@ int32_t main()
    	   	cout<<"NO"<<endl;
    } 
   
-
-   // int flag=0;
-   // for(int i=0;i<m;i++)
-   // {
-   // 	  string s; cin>>s;
-   // 	  int hh=hashi(s);
-   // 	  for(int i=0;i<s.size();i++){
-   //        char tt=s[i];
-   //         flag=0;
-   //        for(char j='a';j<='c';j++){
-   //          if(s[i]!=j){
-   //             // s[i]=j;
-   //             int h1= (hh + mul[i]*(j-s[i]))%mod;
-   //            if(mp.find(h1)!=mp.end())
-   //      	  { flag++;cout<<"YES"<<endl; break;}
-   //      	  // s[i]=tt;
-   //           }
-   //        }
-   //         // s[i]=tt;
-   //         if(flag==1)
-   //         	break;
-   //         // cout<<"NO"<<endl;
-   //    }
-   //    if(flag==0)
-   //    cout<<"NO"<<endl; 
-   //  }
     
     return 0;
 
