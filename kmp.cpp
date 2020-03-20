@@ -1,4 +1,5 @@
 // kmp
+// no of pattern in text
 #include<bits/stdc++.h>
 using namespace std;
 #define int long long int
