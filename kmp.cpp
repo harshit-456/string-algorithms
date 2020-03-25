@@ -48,7 +48,7 @@ int KMP(string p,string t)
 	   int j=0;  // for pattern
 	   while(i<tt)
 	   {
-	   	    if(p[j]==t[i])
+	   	    if(p[j]==t[i]) // while(p[j]==t[i] && i<tt && j<pp)
 	   	    {
 	   	    	  i++;
 	   	    	  j++;
