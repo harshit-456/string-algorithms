@@ -1,4 +1,4 @@
-/* codeforces 
+/* codeforces */
 
 
 #include<bits/stdc++.h>
